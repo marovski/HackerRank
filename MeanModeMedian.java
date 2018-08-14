@@ -1,3 +1,5 @@
+/*  Author: MarioCardoso->iamcardozo.eu */
+
 import java.io.*;
 import java.util.*;
 import java.text.DecimalFormat;
