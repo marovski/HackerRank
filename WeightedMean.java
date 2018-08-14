@@ -1,3 +1,4 @@
+/*  Author: MarioCardoso->iamcardozo.eu */
 import java.io.*;
 import java.util.*;
 
