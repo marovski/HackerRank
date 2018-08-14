@@ -1,3 +1,4 @@
+/*  Author: MarioCardoso->iamcardozo.eu */
 import java.io.*;
 import java.util.*;
 
@@ -25,7 +26,7 @@ public class Solution {
         double st=stDeviation(arr,x);
         
         System.out.println(st);
-        
+        in.close();
     }
     
     public static double mean(int arr[]){
