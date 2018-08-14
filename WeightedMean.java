@@ -5,16 +5,17 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Read input from STDIN. Print output to STDOUT. */
         Scanner in= new Scanner(System.in);
+        
         int size= in.nextInt();
+        
         int arr[]= new int[size];
+        
         int weight[]=new int[size];
         
         for(int i=0; i<size;i++){
-            arr[i]=in.nextInt();
-         
-            
+            arr[i]=in.nextInt(); 
         }
            if(in.hasNextInt()){
             for(int j=0;j<size;j++){
