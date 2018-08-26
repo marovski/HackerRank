@@ -1,2 +1,6 @@
 # HackerRank
-Solution for HackerRank Challenge-"10 Days of Stats"
+|Solutions for HackerRank Challenges|
+
+<span>In progress...</span>
+
+
